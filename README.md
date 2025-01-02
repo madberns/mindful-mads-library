@@ -10,19 +10,37 @@ psychology inspired books
   > TBD
 - [Downloadable notecard](/notecard1)
 
-## Book2
+## The Wisdom of the Body
 - [Book Link](https://google.com)
 - Summary
 - [Caption of image](/image.png)
 - [Downloadable notecard](/notecard1)
 
-## Book3
+## Burnout
 - [Book Link](https://google.com)
 - Summary
 - [Caption of image](/image.png)
 - [Downloadable notecard](/notecard1)
 
-## Book4
+## The Body Keeps the Score
+- [Book Link](https://google.com)
+- Summary
+- [Caption of image](/image.png)
+- [Downloadable notecard](/notecard1)
+
+## How to be the Love You Seek
+- [Book Link](https://google.com)
+- Summary
+- [Caption of image](/image.png)
+- [Downloadable notecard](/notecard1)
+
+  ## The Drama of the Gifted Child
+- [Book Link](https://google.com)
+- Summary
+- [Caption of image](/image.png)
+- [Downloadable notecard](/notecard1)
+
+## Modern Man in Search of a Soul
 - [Book Link](https://google.com)
 - Summary
 - [Caption of image](/image.png)
