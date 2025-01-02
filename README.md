@@ -9,7 +9,7 @@ psychology inspired books
 - [Downloadable notecard](/notecard1)
 
 ## The Wisdom of Your Body
-![Book cover](https://github.com/user-attachments/assets/f9d743d3-e915-49ae-95d1-907e46fc9392)
+<img src="https://github.com/user-attachments/assets/f9d743d3-e915-49ae-95d1-907e46fc9392" alt="My Image" width="250" height="250" />
 
 - [Book Link](https://hillarylmcbride.com/the-wisdom-of-your-body/)
 - The Wisdom of Your Body invites readers to rediscover the beauty and wisdom within their bodies, which carry innate knowledge about what we need physically, emotionally, and spiritually. It challenges disconnection, shame, and harmful cultural narratives, offering a path to healing and wholeness through compassion, presence, and radical acceptance.
