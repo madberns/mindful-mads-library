@@ -7,7 +7,7 @@ This repo is a reflection of my passion for psychology and a fun way to practice
 
 *Emotional Agility* by Dr. Susan David is a guide to navigating life’s challenges with flexibility and self-compassion by developing healthier relationships with our emotions, thoughts, and behaviors. By fostering emotional agility, we can stop being dominated by our emotions or rigid self-narratives and instead live a more values-driven, purposeful, and adaptive life.
 - [Learn More](https://www.susandavid.com/book/)
-- [Downloadable notecard](/notecard1) (Work in progress)
+- [Downloadable notecard](https://www.canva.com/design/DAGbrNRHF90/VpfZBhzitalg5ZJwZMD9ZA/edit?utm_content=DAGbrNRHF90&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## The Wisdom of Your Body
 <img src="https://github.com/user-attachments/assets/5fc179a2-3b2d-47ef-9806-7f4ccc891086" alt="The Wisdom of Your Body book cover" width="200" height="300" />
