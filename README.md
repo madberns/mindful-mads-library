@@ -14,7 +14,7 @@ This repo is a reflection of my passion for psychology and a fun way to practice
 
 *The Wisdom of Your Body* by Dr. Hillary McBride invites readers to rediscover the beauty and wisdom within their bodies, which carry innate knowledge about what we need physically, emotionally, and spiritually. It challenges disconnection, shame, and harmful cultural narratives, offering a path to healing and wholeness through compassion, presence, and radical acceptance.
 - [Learn More](https://hillarylmcbride.com/the-wisdom-of-your-body/)
-- [Downloadable notecard](https://www.canva.com/design/DAGb1QUb47c/foFIo7JQ1L85q1wLvYAKag/edit?utm_content=DAGb1QUb47c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Downloadable notecard]([https://www.canva.com/design/DAGb1QUb47c/foFIo7JQ1L85q1wLvYAKag/edit?utm_content=DAGb1QUb47c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGb1QUb47c/foFIo7JQ1L85q1wLvYAKag/edit?utm_content=DAGb1QUb47c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ## Burnout: The Secret to Unlocking the Stress Cycle
 <img src="https://github.com/user-attachments/assets/41c7ec16-b396-478a-b80c-83e120370bbf" alt="Burnout book cover" width="200" height="300" />
