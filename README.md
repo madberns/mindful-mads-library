@@ -1,5 +1,5 @@
 # my-favorite-psych-books
-This repo is a reflection of my passion for psychology and a fun way to practice coding at the same time. Each book featured here has had a meaningful impact on my own journey, and I hope it offers the same insight and encouragement to others. I’ve also created downloadable notecards featuring some of my favorite quotes and lessons from the books so you can carry their wisdom with you when you need it most.
+This repo is a reflection of my passion for psychology and a fun way to practice coding and Canva content creation at the same time. Each book featured here has had a meaningful impact on my own journey, and I hope it offers the same insight and encouragement to others. I’ve created downloadable notecards featuring some of my favorite quotes and lessons from the books so you can carry their wisdom with you when you need it most.
 
 ## Emotional Agility
 <img src="https://m.media-amazon.com/images/I/71NREGxbytL._AC_UF1000,1000_QL80_.jpg" alt="Emotional Agility book cover" width="200" height="300" />
