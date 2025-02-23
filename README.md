@@ -1,3 +1,5 @@
+<img src="https://github.com/madberns/mindful-mads-library/blob/main/mindfulmads_logo.png" alt="Emotional Agility book cover" width="375" height="375" />
+
 # mindful-mads-library
 This repo is a reflection of my passion for psychology and a fun way to practice coding and Canva content creation at the same time. Each book featured here has had a meaningful impact on my own journey, and I hope it offers the same insight and encouragement to others. I’ve created downloadable notecards featuring some of my favorite quotes and lessons from the books so you can carry their wisdom with you when you need it most.
 
